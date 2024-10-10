@@ -344,7 +344,7 @@ const sidebars = {
               ],
             },
           ],
-        },   
+        },
         // KOTS ENTERPRISE USER DOCS
         {
           type: 'category',
@@ -604,6 +604,7 @@ const sidebars = {
       'vendor/testing-cluster-addons',
       'vendor/testing-how-to',
       'vendor/testing-ingress',
+      'vendor/testing-pricing',
     ],
   },
   {
